@@ -1,6 +1,7 @@
 <h1 align="center">
     eStore Platform
 </h1>
+
 ***eStore Platform*** reprezinta un sistem pentru o platforma online dedicata vanzarii de produse diverse. 
 
 Entitatile principale sunt **Produsele**, **Utilizatorii** si **Serverul** care stocheaza detalii despre produse si utilizatori si unde se pot efectua diverse operatii asupra entitatilor, precum căutări de produse, de utilizatori sau modificări de diferite cantități (adăugare sau scoatere de produse din coș).
@@ -13,13 +14,13 @@ Entitatile principale sunt **Produsele**, **Utilizatorii** si **Serverul** care 
 
 * **Ierarhia Product**
 
-  <img src="\pictures\producthierarchy.jpg" alt="Merge" style="zoom:70%;" />
-
-* **Ierarhia User**
-
+  <img src="/pictures/producthierarchy.jpg" alt="product_hierarchy" style="zoom:60%;" />
   
 
-  <img src="\pictures\userhierarchy.png" alt="user hierarchy" style="zoom:70%;" />
+* **Ierarhia User**
+  
+
+  <img src="/pictures/userhierarchy.png" alt="user_hierarchy" style="zoom:60%;" />
 
 * Clasa ```ShoppingCart```
 
